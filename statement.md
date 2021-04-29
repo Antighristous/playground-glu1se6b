@@ -1,8 +1,9 @@
 # Welcome!
 
-This Bash template lets you get started quickly with a simple one-page playground.
 
 ```bash runnable
+ 
+echo "Antighristous by 3bass"
 echo "Hello World!"
 ```
 
